@@ -5,7 +5,6 @@
 💡 &nbsp;Intrested in Engineering Projects Solving Real World Challanges !\
 🎓 &nbsp;I'm currently studying Computer Science Engineering at GraphicEra Hill University, Dehradun\
 🌱 &nbsp;Exploring Development, IOT , DataScience & ML\
-✍️ &nbsp;In my free time, I play games and write poetry.
 
 ### 🛠 &nbsp; My Profiles
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]("https://linkedin.com/in/rahulkandwal19")
